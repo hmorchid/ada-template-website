@@ -1,7 +1,7 @@
-theme: jekyll-theme-minimal
-title: "The impact of casting diversity on a film's role dynamics and performance"
+theme: jekyll-theme-cayman
+title: "The Influence of Diversity on Role Dynamics and Film Performance"
 description: A template website for ADA
-show_downloads: True
+show_downloads: False
 navigation:
   - title: Home
     url: /
